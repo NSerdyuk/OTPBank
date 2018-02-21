@@ -1,0 +1,15 @@
+[0131/202613.799:ERROR:process_info.cc(632)] range at 0x7c81264000000000, size 0x25c fully unreadable
+[0131/202613.803:ERROR:process_info.cc(632)] range at 0x7c81266000000000, size 0x25c fully unreadable
+[0131/202613.803:ERROR:process_info.cc(632)] range at 0x0, size 0x25c fully unreadable
+[0131/202649.471:ERROR:process_info.cc(632)] range at 0x2ea826f000000000, size 0x226 fully unreadable
+[0131/202649.471:ERROR:process_info.cc(632)] range at 0x2ea8271000000000, size 0x226 fully unreadable
+[0131/202649.471:ERROR:process_info.cc(632)] range at 0x0, size 0x226 fully unreadable
+[0131/202718.560:ERROR:process_info.cc(632)] range at 0x9e1326f000000000, size 0x1b5 fully unreadable
+[0131/202718.560:ERROR:process_info.cc(632)] range at 0x9e13271000000000, size 0x1b5 fully unreadable
+[0131/202718.628:ERROR:process_info.cc(632)] range at 0x0, size 0x1b5 fully unreadable
+[0131/205609.883:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0131/205609.939:ERROR:exception_snapshot_win.cc(87)] thread ID 11832 not found in process
+[0131/205609.883:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0131/205609.939:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0131/205609.939:ERROR:exception_snapshot_win.cc(87)] thread ID 11320 not found in process
+[0131/205609.939:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
